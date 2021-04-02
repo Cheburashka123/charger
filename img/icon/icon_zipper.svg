@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+	<style type="text/css">
+		.st2{fill:#3cd072;stroke-linecap:round;stroke-linejoin:round;}
+		.st1{stroke-linecap:round;stroke-linejoin:round;}
+		.st0{stroke:#3cd072;;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<path class="st0" d="M24.19,61.39L24.16,61.52L51,36L21,36L46.06,10.52L24.19,61.39Z"/>
+	<path class="st2" d="M36,0C16.11,0 0,16.11 0,36C0,55.88 16.11,72 36,72C55.88,72 72,55.88 72,36C72,16.11 55.88,0 36,0M36,2C54.74,2 70,17.25 70,36C70,54.74 54.74,70 36,70C17.25,70 2,54.74 2,36C2,17.25 17.25,2 36,2"/>
+</svg>
